@@ -24,7 +24,9 @@ weightInGms: Product weight
 
 quantity: Quantity sold
 
-🔗 Dataset Link:
+##### 🔗  <a href="https://github.com/supraja-kamineni/Zepto-Sales-Inventory-Analysis/blob/main/Zepto.csv">Dataset (CSV File):</a>
+
+##### <a href="https://www.kaggle.com/datasets/devshahoff/zepto-dataset">Kaggle Link(Dataset)</a>
 
 ### 📊 SQL Queries & Insights
 
